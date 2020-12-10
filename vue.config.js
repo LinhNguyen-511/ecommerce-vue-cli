@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/ecommerce-store-vue-cli/'
+    publicPath: '/ecommerce-vue-cli/'
   }
   

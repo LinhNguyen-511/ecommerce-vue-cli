@@ -38,6 +38,7 @@ export default {
 </script> 
 
 <style lang="css" scoped>
+
 .wrapper {
     max-width: 90vw;
     margin: 0 auto;
@@ -47,8 +48,8 @@ export default {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    list-style-type: none;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
 }
 .product {
     text-align: center;
